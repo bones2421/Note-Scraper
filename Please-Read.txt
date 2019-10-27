@@ -1,0 +1,16 @@
+//Notes about my struggles with this assignment
+//My code all seems correct.
+//Started over 3 times to make sure
+//I have been able to plug in different styling formats just fine and that all renders
+//I believe I am connecting to mongoDB correctly
+//Looked stuff up and did exactly what they said
+//Got help from a TA, helped a little bit but did not slove my problem
+//He told me that as long as my scraping code was selecting the right tags on the page, it would pull
+//I checked this and there was more to it than that
+//The tags I was using did not match the news site I showed him, but they matched the website I was scraping from
+//It seems like it is dumping into mongoDB
+//The articles still refuse to render to the page, however
+//This submission is not going to be good, but it's what I was able to do here
+//If I can find time after I submit I will try again on this and hopefully I can get it regraded
+//There is something I am missing
+//Not sure what that even is at this point
